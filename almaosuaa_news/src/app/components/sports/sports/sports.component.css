@@ -1,0 +1,26 @@
+.speed_news{
+
+    background-color: rgb(40, 228, 212);
+    border-bottom: 5px solid rgb(26, 29, 228);
+    margin: 10px 0;
+    padding: 10px 0;
+    border-radius: 10px;
+    text-align: center;
+}
+.card{
+
+   display: inline;
+   float: left;
+   margin-top: 50px;
+   width: 300px;
+}
+.space_between{
+   margin: 0px 50px;
+   margin-top: 50px;
+
+
+}
+
+.cards img{
+   height: 160px;
+}
